@@ -13,3 +13,6 @@ HDB Resale Prediction
 https://github.com/StrangeNPC/HDB_Resale_Prediction
 
 #NYPD Shooting Data
+
+Confidential
+Razer Qdrant VectorDB
