@@ -12,7 +12,8 @@ https://github.com/StrangeNPC/HaystackChatbotStreamlit
 HDB Resale Prediction
 https://github.com/StrangeNPC/HDB_Resale_Prediction
 
-#NYPD Shooting Data
+#NYPD Shooting Data Visualization
+https://github.com/StrangeNPC/NYPD-Shooting-Visual
 
 Confidential
 Razer Qdrant VectorDB
