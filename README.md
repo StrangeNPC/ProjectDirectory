@@ -15,5 +15,8 @@ https://github.com/StrangeNPC/HDB_Resale_Prediction
 #NYPD Shooting Data Visualization
 https://github.com/StrangeNPC/NYPD-Shooting-Visual
 
+#Movie Recommendation System
+https://github.com/StrangeNPC/MovieRecommenderSystem
+
 Confidential
 Razer Qdrant VectorDB
