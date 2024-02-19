@@ -18,5 +18,8 @@ https://github.com/StrangeNPC/NYPD-Shooting-Visual
 #Movie Recommendation System
 https://github.com/StrangeNPC/MovieRecommenderSystem
 
+#Kaggle BBC News Classification
+
+
 Confidential
 Razer Qdrant VectorDB
