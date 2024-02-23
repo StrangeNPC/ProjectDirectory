@@ -6,6 +6,9 @@ https://github.com/StrangeNPC/Automation-Web-App
 ML Marketing Project
 https://github.com/StrangeNPC/MarketingDataProject
 
+EU SME Time Series Forecasting Project
+https://github.com/StrangeNPC/EU_Tech_TimeSeriesForecasting
+
 Haystacks VectorDB Chatbot
 https://github.com/StrangeNPC/HaystackChatbotStreamlit
 
